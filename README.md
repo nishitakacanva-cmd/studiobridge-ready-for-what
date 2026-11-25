@@ -1,11 +1,13 @@
-# Ready for What? — v1.1
+# Ready for What? — v1.2
 
 An interactive Studio Bridge research exhibit.
 
-[Open the exhibit](https://nishitakacanva-cmd.github.io/studiobridge-ready-for-what/?v=1.1)
+[Open the guided exhibit](https://nishitakacanva-cmd.github.io/studiobridge-ready-for-what/?v=1.2)
 
-The updated machine uses one responsive cabinet, a readable green display, fitted switches and workplace lever, clear instructions and a receipt with its own space. Viewpoints change when selected; comparison starts only when requested. Changing the inputs clears an old receipt.
+Does job-ready mean the same thing to a student, a teacher and an employer?
 
-The research sources and evidence categories are retained, with simpler visible labels. Interpretive labels remain distinguished from research results.
+The large physical machine now leads visitors through one portfolio card and three viewpoints. The opening explains what the card represents. Each step names the person, their question and an example reading. The ending explicitly compares three readings of the same evidence. Visitors can then try another card.
 
-This is a self-contained browser build. Images, fonts, styles and application code are included in index.html; no installation is required.
+Example readings are interpretations, not interview quotes or hiring scores. Card inspection and Sources & research retain source provenance and evidence limits.
+
+This self-contained browser build embeds images, fonts, styles and application code. No installation is required.
