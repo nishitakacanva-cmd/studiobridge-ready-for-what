@@ -1,11 +1,11 @@
-# Ready for What? — v1.4
+# Ready for What? — v1.5
 
-[Open the interactive exhibit](https://nishitakacanva-cmd.github.io/studiobridge-ready-for-what/?v=1.3)
+[Open the interactive exhibit](https://nishitakacanva-cmd.github.io/studiobridge-ready-for-what/?v=1.5)
 
-Mechanical sound effects respond to loading, lever pulls, printing, paper and reset. Sound can be muted in the header. Teal, coral and blue accents distinguish the viewpoints; explanatory text keeps its final three words together.
+Does “job-ready” mean the same thing to a student, a teacher and an employer? Choose one of twelve evidence cards, click or drag it into the large machine, and pull its lever or jump between stakeholder viewpoints.
 
-A Studio Bridge research exhibit. Does job-ready mean the same thing to a student, a teacher and an employer?
+The olive, walnut and brass workshop has a phosphor monitor, brief typed readouts, scan texture, settling indicators, cartridge reactions and a working paper receipt. Mechanical sound effects can be muted in the header. Reduced-motion preferences suppress decorative movement.
 
-All twelve evidence cards stay available in the rack. Click or drag a card onto the large machine, jump between viewpoints, or pull the physical lever to move through them. Changing cards keeps the current viewpoint and clears an old receipt. Comparing prints a receipt that opens into three readings, evidence limits and provenance; visitors can download its text.
+The receipt adds an evidence gap, one follow-up question and a suggested next card. These are exhibit interpretations, not interview quotes, statistics or hiring scores. Primary and secondary source notes remain available.
 
-Readings are interpretations, not participant quotations, survey results or hiring scores. Source notes remain available. Images, fonts, code and styles are embedded in the standalone HTML.
+The standalone HTML embeds images, fonts, code and styles; it needs no installation. The React source project includes editing and build instructions.
