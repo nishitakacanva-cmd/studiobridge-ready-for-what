@@ -1,6 +1,8 @@
-# Ready for What? — v1.3
+# Ready for What? — v1.4
 
 [Open the interactive exhibit](https://nishitakacanva-cmd.github.io/studiobridge-ready-for-what/?v=1.3)
+
+Mechanical sound effects respond to loading, lever pulls, printing, paper and reset. Sound can be muted in the header. Teal, coral and blue accents distinguish the viewpoints; explanatory text keeps its final three words together.
 
 A Studio Bridge research exhibit. Does job-ready mean the same thing to a student, a teacher and an employer?
 
