@@ -1,11 +1,13 @@
-# Ready for What? — v1.5
+# Ready for What? — v1.6
 
-[Open the interactive exhibit](https://nishitakacanva-cmd.github.io/studiobridge-ready-for-what/?v=1.5)
+[Open the interactive exhibit](https://nishitakacanva-cmd.github.io/studiobridge-ready-for-what/?v=1.6)
 
-Does “job-ready” mean the same thing to a student, a teacher and an employer? Choose one of twelve evidence cards, click or drag it into the large machine, and pull its lever or jump between stakeholder viewpoints.
+Choose one of twelve evidence cartridges, click or drag it into the original large machine, and explore Student, Teacher and Employer lenses. Jump to Compare three at any time. Each cartridge has a different reveal, shared ground and unanswered question. Switching cards while comparing keeps the comparison open.
 
-The olive, walnut and brass workshop has a phosphor monitor, brief typed readouts, scan texture, settling indicators, cartridge reactions and a working paper receipt. Mechanical sound effects can be muted in the header. Reduced-motion preferences suppress decorative movement.
+The olive, walnut and brass workshop has phosphor typography, short mechanical reactions, an animated signal, a paper finding and an optional sound switch. Pull the lever to print an evidence-gap receipt; pull or click its paper to read it.
 
-The receipt adds an evidence gap, one follow-up question and a suggested next card. These are exhibit interpretations, not interview quotes, statistics or hiring scores. Primary and secondary source notes remain available.
+Research is visible beside the readings. Thirteen checked, anonymised transcript excerpts connect to relevant pages of the supplied insight deck. The lenses, comparisons, pattern descriptions, follow-up prompts and card pairings are exhibit interpretations. They are not measured scores or population findings.
 
-The standalone HTML embeds images, fonts, code and styles; it needs no installation. The React source project includes editing and build instructions.
+Our research explains the method and shows a contextual chart from McKinsey's nine-country 2012 survey, with date, scope and a primary-source link. These historical perceptions are not estimates for current Indian design graduates. The exhibit does not infer a project participant total from transcript speakers.
+
+Evidence-card labels, captions and references now use dark text on readable paper surfaces. Images, fonts, styles and application code are embedded in the standalone HTML. No installation is needed for that file. The separate React source package contains editing, build and verification notes.
